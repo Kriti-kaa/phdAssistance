@@ -34,13 +34,19 @@ function topbar() {
         </div>
         <Navbar expand="lg" className="bg-body-tertiary">
       <Container>
-        <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+        {/* <Navbar.Brand href="#home">About us</Navbar.Brand> */}
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#link">Link</Nav.Link>
-            <NavDropdown title="Dropdown" id="basic-nav-dropdown">
+          <Nav.Link href="#link">ABOUT US </Nav.Link>
+            <Nav.Link href="#home">SERVICES</Nav.Link>
+            <Nav.Link href="#link">INDUSTRIES</Nav.Link>
+            <Nav.Link href="#link">PRICING</Nav.Link>
+            <Nav.Link href="#link">HELP-GUIDE</Nav.Link>
+            <Nav.Link href="#link">CONTACT US</Nav.Link>
+            <Nav.Link href="#link">HIRE A RESEARCH ASSISTANT </Nav.Link>
+         
+            {/* <NavDropdown title="Dropdown" id="basic-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
                 Another action
@@ -50,7 +56,7 @@ function topbar() {
               <NavDropdown.Item href="#action/3.4">
                 Separated link
               </NavDropdown.Item>
-            </NavDropdown>
+            </NavDropdown> */}
           </Nav>
         </Navbar.Collapse>
       </Container>
