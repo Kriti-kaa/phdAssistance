@@ -21,7 +21,7 @@ function Footer() {
           <div class="col-sm-12 col-md">
             <div class="ftco-footer-widget mb-4 ml-md-4">
               <h2 class="ftco-heading-2">Main Services</h2>
-              <ul class="list-unstyled">
+              <ul >
                 <li><a href="https://www.phdassistance.com/services/phd-dissertation/" ><span class="fa fa-chevron-right mr-2"></span>PhD Dissertation</a></li>
                 <li><a href="https://www.phdassistance.com/services/phd-coursework/"><span class="fa fa-chevron-right mr-2"></span>Coursework</a></li>
                 <li><a href="https://www.phdassistance.com/services/phd-literature-review/"><span class="fa fa-chevron-right mr-2"></span>Litreature Review</a></li>
@@ -38,8 +38,8 @@ function Footer() {
           <div class="col-sm-12 col-md">
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Links</h2>
-              <ul class="list-unstyled">
-                <li><a href="https://www.phdassistance.com/blog/"  ><span class="fa fa-chevron-right mr-2"></span>Blog</a></li>
+              <ul >
+                <li><a href="https://www.phdassistance.com/blog/" ><span class="fa fa-chevron-right mr-2"></span>Blog</a></li>
                 <li><a href="https://www.phdassistance.com/industries/"><span class="fa fa-chevron-right mr-2"></span>Industries</a></li>
                 <li><a href="https://www.phdassistance.com/pricing/"><span class="fa fa-chevron-right mr-2"></span>Pricing Details</a></li>
                 <li><a href="https://www.phdassistance.com/insights/"><span class="fa fa-chevron-right mr-2"></span>Insights</a></li>
@@ -61,8 +61,8 @@ function Footer() {
             	<div class="block-23 mb-3">
 	              <ul>
 	                <li><span class="#"></span><span class="text">UK: +44-7537144372</span></li>
-	                <li><a href="#" ><span class="#"></span><span class="text">India: +91-9176966446</span></a></li>
-	                <li><a href="#"><span class="#"></span><span class="text">Landline:    +91-44-42124284( Between 9.00 am - 6.00 pm IST)</span></a></li>
+	                <li><span class="#"></span><span class="text">India: +91-9176966446</span></li>
+	                <li><span class="#"></span><span class="text">Landline:    +91-44-42124284( Between 9.00 am - 6.00 pm IST)</span></li>
 					<li><span class="#"></span><span class="text">For existing clients: +91-8754446693</span></li>
 					<li><span class="#"></span><span class="text">Customer Care: +91-9384672299</span></li>
 					<li><span class="#"></span><span class="text">Email: info@phdassistance.com</span></li>
